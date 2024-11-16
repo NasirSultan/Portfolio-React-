@@ -13,7 +13,7 @@ function MainPage() {
             Nasir Sultan
           </h5>
           <p className="text-brown-700 text-lg font-medium transition duration-300 ease-in-out transform hover:scale-105 hover:text-blue-600 hover:shadow-lg">
-  Hello, I'm a Web Developer based in Lahore, Pakistan.
+  Hello,I'm a Web Developer Desinger based in Lahore, Pakistan.
 </p>
 
 
