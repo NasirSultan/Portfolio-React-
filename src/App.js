@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div className="flex">
         <Sidebar />
-        <div className="flex-grow p-5">
+        <div className="flex-grow p-1" >
           <Routes>
             <Route path="/" element={<MainPage />} />
             <Route path="/about" element={<About />} />

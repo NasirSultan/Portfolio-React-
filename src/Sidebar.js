@@ -6,7 +6,7 @@ import { faUser, faGraduationCap, faCode, faFolder, faEnvelope } from '@fortawes
 
 const Sidebar = () => {
   return (
-    <div className="w-64 h-screen bg-gray-800 text-white flex flex-col items-center py-8">
+    <div className="w-1/6 h-100% bg-gray-800 text-white flex flex-col items-center py-8">
       <Link to="/" className="text-3xl font-bold mb-8">My Portfolio</Link>
 
       <Button

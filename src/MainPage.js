@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedin, faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import profileImage from './IMG_0627.jpg';
 
 function MainPage() {
@@ -13,7 +13,7 @@ function MainPage() {
             Nasir Sultan
           </h5>
           <p className="text-brown-700 text-lg font-medium transition duration-300 ease-in-out transform hover:scale-105 hover:text-blue-600 hover:shadow-lg">
-  Hello,I'm a Web Developer Desinger based in Lahore, Pakistan.
+          Hello, I'm a Full-Stack Developer based in Lahore, Pakistan.
 </p>
 
 
@@ -33,7 +33,7 @@ function MainPage() {
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-gray-200 border border-gray-300 text-blue-600 hover:bg-blue-600 hover:text-white hover:border-blue-600 transform transition-all duration-300 hover:scale-110"
             >
-              <FontAwesomeIcon icon={faFacebook} className="text-2xl" />
+              <FontAwesomeIcon icon={faGithub} className="text-2xl" />
             </a>
           </div>
 
